@@ -1,0 +1,12 @@
+
+.shared {
+  margin: .5rem;
+  padding: .5rem;
+  border: 1px solid #aaa;
+  box-shadow: 1px 2px 4px #aaa;
+}
+
+.debug {
+  color: #555;
+  background-color: #ddd;
+}

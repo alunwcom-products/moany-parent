@@ -1,0 +1,8 @@
+{
+  "realm": "alunwcom",
+  "auth-server-url": "https://auth.alunw.com/auth/",
+  "ssl-required": "all",
+  "resource": "moany-fe",
+  "public-client": true,
+  "confidential-port": 0
+}
